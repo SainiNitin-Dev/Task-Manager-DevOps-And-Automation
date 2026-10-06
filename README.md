@@ -16,7 +16,7 @@ Users need a simple way to track tasks. Developers need repeatable, automated de
 
 ## Current application
 
-Implemented: project overview and phase-by-phase roadmap. Application code, tests, and evaluation evidence are planned.
+Implemented: Express starter server and health endpoint. Task CRUD, SQLite, interface, and tests are planned.
 
 Planned: registration/login, password hashing, user-owned tasks, priority, and all later DevOps integrations. Today's app is a local, single-user demonstration. It has no authentication and should remain on localhost until authentication is implemented.
 
